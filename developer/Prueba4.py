@@ -5,6 +5,7 @@
     numero_3
     numero_4
     numero_5
+    numero_6
     Sin embargo, el valor de estas variables es ingresado por el usuario.
 '''
 # La suma de cinco números
@@ -25,8 +26,9 @@ numero_4 = input("Intro número cuatro ")
 # Se solicita al usuario que ingrese el valor del cuarto número y se guarda en la variable numero_5
 numero_5 = input("Intro número cinco ")
 
+numero_6 = input("Intro número seis")
 # Se convierten los valores ingresados por el usuario a enteros (int) y se suman
-resultado_suma = int(numero_1) + int(numero_2)+ int(numero_3)+ int(numero_4)+ int(numero_5)
+resultado_suma = int(numero_1) + int(numero_2)+ int(numero_3)+ int(numero_4)+ int(numero_5)+ int(numero_6)
 
 # Se imprime el resultado de la suma utilizando una f-string para formatear el mensaje
 print(f"El resultado de la suma es: {resultado_suma}")
