@@ -1,8 +1,8 @@
 # Definición de las asignaturas y las notas del estudiante
 notas = {
-    "Física Cuántica": 0,
-    "Química": 0,
-    "Física": 0
+    "Biología Molecular": 0,
+    "Fisiología": 0,
+    "Química Atómica": 0
 }
 
 # Solicitar al usuario que ingrese las notas para cada asignatura
