@@ -24,7 +24,7 @@ numero_3 = input("Intro número tres ")
 numero_4 = input("Intro número cuatro ")
 
 # Se solicita al usuario que ingrese el valor del cuarto número y se guarda en la variable numero_5 
-
+1
 numero_5 = input("Intro número cinco ")
 
 numero_6 = input("Intro número seis")
